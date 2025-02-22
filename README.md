@@ -1,10 +1,10 @@
 ﻿# SignatureProcessor
 ## 电子签名自动放大裁剪处理程序
 ### 原始签名图片
-![small](https://github.com/user-attachments/assets/c1846d24-82c7-476e-b3eb-61406f82a745)
+<img src="https://github.com/user-attachments/assets/c1846d24-82c7-476e-b3eb-61406f82a745" alt="small" width="40%" />
 
 ### 处理后的签名图片
-![normal](https://github.com/user-attachments/assets/0e90e142-2ebe-4b9e-a0a0-9fa507b79b49)
+<img src="https://github.com/user-attachments/assets/0e90e142-2ebe-4b9e-a0a0-9fa507b79b49" alt="small" width="40%" />
 
 ### 界面截图
 ![7e5a6a6cb03090770093c45f805ea778](https://github.com/user-attachments/assets/6ac14894-7495-49ad-b66f-1ea669ca0c46)
